@@ -1,0 +1,11 @@
+models:
+    - name: raw
+      description: gz_raw_data
+      tables:
+        - name: sales
+          identifier: raw_gz_sales
+        - name: product
+          identifier: raw_gz_product
+        - name: ship
+          indentifier: raw_gz_ship
+        
